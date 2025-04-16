@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yunus.y\u0131lmaz\\Desktop\\Projeler\\DapperExamp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F58C7270-CFD7-4F65-B957-7B8132D31214}|DapperExamp\\DapperExamp.csproj|c:\\users\\yunus.y\u0131lmaz\\desktop\\projeler\\dapperexamp\\dapperexamp\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58C7270-CFD7-4F65-B957-7B8132D31214}|DapperExamp\\DapperExamp.csproj|solutionrelative:dapperexamp\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58C7270-CFD7-4F65-B957-7B8132D31214}|DapperExamp\\DapperExamp.csproj|c:\\users\\yunus.y\u0131lmaz\\desktop\\projeler\\dapperexamp\\dapperexamp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F58C7270-CFD7-4F65-B957-7B8132D31214}|DapperExamp\\DapperExamp.csproj|solutionrelative:dapperexamp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58C7270-CFD7-4F65-B957-7B8132D31214}|DapperExamp\\DapperExamp.csproj|c:\\users\\yunus.y\u0131lmaz\\desktop\\projeler\\dapperexamp\\dapperexamp\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58C7270-CFD7-4F65-B957-7B8132D31214}|DapperExamp\\DapperExamp.csproj|solutionrelative:dapperexamp\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58C7270-CFD7-4F65-B957-7B8132D31214}|DapperExamp\\DapperExamp.csproj|c:\\users\\yunus.y\u0131lmaz\\desktop\\projeler\\dapperexamp\\dapperexamp\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58C7270-CFD7-4F65-B957-7B8132D31214}|DapperExamp\\DapperExamp.csproj|solutionrelative:dapperexamp\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/NB_230103/DapperExampDb/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yunus.y\u0131lmaz\\Desktop\\Projeler\\DapperExamp\\DapperExamp\\appsettings.json",
+              "RelativeDocumentMoniker": "DapperExamp\\appsettings.json",
+              "ToolTip": "C:\\Users\\yunus.y\u0131lmaz\\Desktop\\Projeler\\DapperExamp\\DapperExamp\\appsettings.json",
+              "RelativeToolTip": "DapperExamp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T08:36:55.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\yunus.y\u0131lmaz\\Desktop\\Projeler\\DapperExamp\\DapperExamp\\Context\\DapperContext.cs",
+              "RelativeDocumentMoniker": "DapperExamp\\Context\\DapperContext.cs",
+              "ToolTip": "C:\\Users\\yunus.y\u0131lmaz\\Desktop\\Projeler\\DapperExamp\\DapperExamp\\Context\\DapperContext.cs",
+              "RelativeToolTip": "DapperExamp\\Context\\DapperContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:34:01.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Products.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/NB_230103/DapperExampDb/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/NB_230103/DapperExampDb/True/SqlTable/dbo.Products.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-18T12:15:30.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\yunus.y\u0131lmaz\\Desktop\\Projeler\\DapperExamp\\DapperExamp\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "DapperExamp\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\yunus.y\u0131lmaz\\Desktop\\Projeler\\DapperExamp\\DapperExamp\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "DapperExamp\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:59:32.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\yunus.y\u0131lmaz\\Desktop\\Projeler\\DapperExamp\\DapperExamp\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "DapperExamp\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\yunus.y\u0131lmaz\\Desktop\\Projeler\\DapperExamp\\DapperExamp\\Service\\ProductService.cs",
+              "RelativeToolTip": "DapperExamp\\Service\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:02:46.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

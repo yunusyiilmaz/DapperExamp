@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "DapperExamp.Controllers.DefaultController",
+    "Method": "ProductList",
+    "RelativePath": "api/Default",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DapperExamp.Controllers.DefaultController",
+    "Method": "CreateProduct",
+    "RelativePath": "api/Default",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "DapperExamp.Dtos.CreateProductDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DapperExamp.Controllers.DefaultController",
+    "Method": "DeleteProduct",
+    "RelativePath": "api/Default",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DapperExamp.Controllers.DefaultController",
+    "Method": "UpdateProduct",
+    "RelativePath": "api/Default",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "DapperExamp.Dtos.UpdateProductDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DapperExamp.Controllers.DefaultController",
+    "Method": "GetProductById",
+    "RelativePath": "api/Default/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
